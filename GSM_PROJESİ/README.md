@@ -2,7 +2,7 @@
 
 Bu proje, C programlama dili kullanılarak geliştirilmiş, konsol tabanlı bir telekomünikasyon abone yönetim sistemidir. Sistem; abone kaydı oluşturma, silme, güncelleme işlemlerinin yanı sıra, operatör sadakat analizi ve kampanya popülarite sıralaması gibi analitik raporlar sunmaktadır.
 
-## 🚀 Özellikler
+##  Özellikler
 
 Proje, temel CRUD (Create, Read, Update, Delete) işlemlerinin ötesinde veri doğrulama ve raporlama yeteneklerine sahiptir:
 
@@ -27,7 +27,7 @@ Proje, temel CRUD (Create, Read, Update, Delete) işlemlerinin ötesinde veri do
     * **Array Shifting:** Silme işlemi sonrası veri bütünlüğünü korumak için.
 * **Kütüphaneler:** `<string.h>`, `<ctype.h>`, `<stdlib.h>`, `<locale.h>`
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
 
 Proje iki ana dosyadan oluşmaktadır:
 
@@ -36,7 +36,7 @@ Proje iki ana dosyadan oluşmaktadır:
 
 > **Not:** Derleme yapabilmek için `veri_seti.h` dosyasının proje dizininde bulunduğundan emin olun.
 
-## 💻 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -45,4 +45,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 3.  Aşağıdaki komut ile derleyin (GCC derleyicisi gerektirir):
 
 ```bash
+
 gcc main.c -o gsm_sistemi

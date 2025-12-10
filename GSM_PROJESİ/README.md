@@ -17,7 +17,7 @@ Proje, temel CRUD (Create, Read, Update, Delete) işlemlerinin ötesinde veri do
     * **Sadakat Analizi:** Hiç operatör değiştirmemiş "sadık" müşterilerin operatör bazlı dağılımı.
     * **Kampanya Popülaritesi:** **Bubble Sort** algoritması kullanılarak kampanyaların en çok tercih edilenden en aza doğru sıralanması.
 
-## 🛠 Kullanılan Teknolojiler ve Algoritmalar
+##  Kullanılan Teknolojiler ve Algoritmalar
 
 * **Dil:** C
 * **Veri Yapıları:** Structs (Yapılar), Arrays (Diziler), Pointers (İşaretçiler).
@@ -47,3 +47,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 ```bash
 
 gcc main.c -o gsm_sistemi
+
